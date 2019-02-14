@@ -21,6 +21,7 @@
 - [Farhia Muse] (https://github.com/FarhiaM)
 - [Gaege Root](https://github.com/GaegeRoot)
 -  Colin Shen1
+- [Liv Sovannarith](https://github.com/rithbatch6)
 Conor Shields (https://github.com/cshields236)
 - [N0Ngen] (https://github.com/N0Ngen)
 - [dora harps] (https://github.com/doraharper)
