@@ -9,6 +9,7 @@
 - [Anupam Godse](https://github.com/anupamgodse)
 - [Rob Kos](https://github.com/robkos442)
 - [Liv Sovannarith] 
+- [karryjianxing]
 - [Bailey Zinger](https://github.com/bzinger2)
 - [Olivia Meehan] (https://github.com/livimee)
 - [Dakota Brown](https://github.com/dchasebrown)
